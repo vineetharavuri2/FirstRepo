@@ -1,5 +1,5 @@
-Every
+Every(change on line1)
 Good
-Boy
+Boy(change on line3)
 Deserves
 Favor
